@@ -19,11 +19,11 @@
 
 ## Summary
   `Concluding Results`
-  -More males than females checked out bikes 
-  -More subscribers utilized the bike sharing programs than customers
-  -During Weekdays more people checked out bikes between the hours 7am-9am and 3pm-8pm
-  -On the weekends more people checkout out bikes during the hours 9am-7pm
-  -Even though there are more people that ride the bikes during the week the weekend has the most steady time frame of people checking out bikes.(The duration is greater)
+  - More males than females checked out bikes 
+  - More subscribers utilized the bike sharing programs than customers
+  - During Weekdays more people checked out bikes between the hours 7am-9am and 3pm-8pm
+  - On the weekends more people checkout out bikes during the hours 9am-7pm
+  - Even though there are more people that ride the bikes during the week the weekend has the most steady time frame of people checking out bikes.(The duration is greater)
   
  `Suggestions`
  - Market to female population
