@@ -27,7 +27,7 @@
   
  `Suggestions`
  - Market to female population
- - To get a more accurate set of data create a way to document everyone's gender that checks out a bike
+ - To get a more accurate set of data, create a way to document everyone's gender that checks out a bike
 
 
   
