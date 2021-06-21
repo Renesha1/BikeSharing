@@ -2,4 +2,4 @@
 
 
 TableauPublic  
-[Link] (https://public.tableau.com/profile/renesha.armstrong#!/)
+[Link](https://public.tableau.com/profile/renesha.armstrong#!/)
